@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426168204246",
+    "project_id": "doctorhelper-8e215",
+    "storage_bucket": "doctorhelper-8e215.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426168204246:android:a86e1567206250fae5c277",
+        "android_client_info": {
+          "package_name": "com.example.doctor_helper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlEhjqPGCqhhHrZcj7H9gMqE_bmIjO6zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
